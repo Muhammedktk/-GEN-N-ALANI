@@ -1,2 +1,2 @@
-# -GEN-N-ALANI
+# UCGEN-ALANI
 Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan programı yazınız.
